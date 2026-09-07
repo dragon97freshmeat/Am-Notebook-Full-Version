@@ -228,3 +228,6 @@ This repository serves as the official landing page for AM-Notebook. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of AM-Notebook today!**
+
+---
+**Last updated:** 2026-09-07 11:06:08 UTC
